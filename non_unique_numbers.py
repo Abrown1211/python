@@ -15,3 +15,6 @@ def unique(list):
         if list.count(num) > 1:
             non_unique.append(num)
     return non_unique
+
+
+
